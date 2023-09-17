@@ -1,4 +1,4 @@
-# Normalisacion-data
+# Normalizacion-data
 
 Hola, afuera se encuentran tres scipts que limpian y normalizan la data, espesificamente de;
 
